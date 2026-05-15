@@ -6,8 +6,7 @@ Description:
     Implements a proactive meta-controller that penalizes high-curvature
     optimization trajectories by integrating the Hessian Spectral Radius
     into the meta-gradient flow.
-Author: Song HUANG (huangsong@cque.edu.cn)
-Date: 2026-03-24 (Upgraded for Top-tier Journals)
+Date: 2026-03-24
 """
 
 import torch

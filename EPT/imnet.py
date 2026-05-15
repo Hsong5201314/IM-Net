@@ -7,8 +7,7 @@ Description:
     optimization trajectories by integrating the Hessian Spectral Radius
     into the meta-gradient flow.
     [Upgraded] Supports flexible input dimensions (e.g., including Interference Energy).
-Author: Song HUANG (huangsong@cque.edu.cn)
-Date: 2026-05-03 (Extended for simulation with Interference Energy)
+Date: 2026-05-03
 """
 
 import torch

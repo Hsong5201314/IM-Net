@@ -9,8 +9,7 @@ Description:
     [Enhanced] Added gradient conflict metrics for simulation mode:
         - interference_energy: - (g_pri · g_aux)
         - gradient_cosine_similarity: cos(g_pri, g_aux)
-Author: Song HUANG (huangsong@cque.edu.cn)
-Date: 2026-05-03 (Extended for simulation conflict tracking)
+Date: 2026-05-03
 """
 
 import torch

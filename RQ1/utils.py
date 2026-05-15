@@ -5,7 +5,6 @@ Description:
     High-performance scientific utilities for spectral analysis of the loss
     landscape. Implements matrix-free Power Iteration for Hessian spectral
     radius estimation, supporting the verification of dynamical stability.
-Author: Song HUANG (huangsong@cque.edu.cn)
 Date: 2026-02-14
 """
 
