@@ -1,0 +1,5 @@
+Variant,Description,NDCG@20_mean,NDCG@20_std,NDCG@20_list,Improvement_vs_Static,p_value_vs_Static
+Full IM-Net,Proactive Meta-Weighting (with look-ahead),0.060714819190685554,0.0001392997844686044,0.0608;0.0608;0.0605;0.0606;0.0608,+0.0013 (+2.2%),0.0000 ***
+without a Look-ahead,Reactive Meta-Weighting (no virtual update),0.06036854277427729,0.00016393369204716602,0.0601;0.0605;0.0605;0.0605;0.0602,+0.0010 (+1.7%),0.0002 ***
+without a Meta-Learner,Fixed Weights (No Meta-Learner),0.05881281276036665,0.00022049781220754276,0.0586;0.0589;0.0592;0.0586;0.0588,-0.0006 (-1.0%),0.0063 **
+Static,Fixed Weights (Main task only),0.059382380309912566,2.976213214175993e-05,0.0594;0.0594;0.0594;0.0594;0.0594,baseline,-
